@@ -2,8 +2,8 @@
     /* welcome box */
     background-color: #fbeec1;
     height : 70px;
-    margin-left: 300px;
-    margin-right:300px;
+    margin-left: 20%;
+    margin-right:20%;
     border-radius: 20px;
     border-color: #fbeec1;
     
@@ -18,11 +18,11 @@
 }
 #AboutUs{
     height: 250px;
-    margin-top: 100px;
+    margin-top: 5%;
     background-color:#fbeec1;
     border-radius: 20px;
-    margin-left: 400px;
-    margin-right:400px;
+    margin-left: 25%;
+    margin-right:25%;
     
     /* text */
     text-align: center;
@@ -32,8 +32,8 @@
     font-size: 24px;
 }
 #img{
-    margin-top: 100px;
-    margin-left: 250px;
+    margin-top: 5%;
+    margin-left: 12%;
 
     border-radius: 20px;
     
@@ -41,8 +41,8 @@
     
 }
 #img2{
-    margin-top: 100px;
-    margin-left: 350px;
+    margin-top: 5%;
+    margin-left: 22%;
     border-radius: 20px;
 
 }
