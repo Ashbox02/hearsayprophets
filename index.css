@@ -1,0 +1,54 @@
+#Welcomecontainer{
+    /* welcome box */
+    background-color: #fbeec1;
+    height : 70px;
+    margin-left: 300px;
+    margin-right:300px;
+    border-radius: 20px;
+    border-color: #fbeec1;
+    
+    
+
+    /* text */
+    padding-top: 6px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+#AboutUs{
+    height: 250px;
+    margin-top: 100px;
+    background-color:#fbeec1;
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-right:400px;
+    
+    /* text */
+    text-align: center;
+    padding-top:20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 24px;
+}
+#img{
+    margin-top: 100px;
+    margin-left: 250px;
+
+    border-radius: 20px;
+    
+    
+    
+}
+#img2{
+    margin-top: 100px;
+    margin-left: 350px;
+    border-radius: 20px;
+
+}
+
+
+html{
+    background-color: #161616;
+    height: 1100px;
+}
