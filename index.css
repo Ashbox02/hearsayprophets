@@ -10,7 +10,7 @@
     
 
     /* text */
-    padding-top: 6px;
+    padding-top: 1%;
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
@@ -34,7 +34,6 @@
 #img{
     margin-top: 5%;
     margin-left: 12%;
-
     border-radius: 20px;
     
     
@@ -50,5 +49,5 @@
 
 html{
     background-color: #161616;
-    height: 1100px;
+    height: 100%;
 }
